@@ -13,7 +13,7 @@ public class GameOver : MonoBehaviour
     public GameObject Dutabteskærm;
     //reference 
     public Text sekunderoverlevetUI;
-
+//Vi laver en bool så man kan se om spillet er slut eller ej
     bool Dutabte;
 
 
@@ -22,6 +22,8 @@ public class GameOver : MonoBehaviour
     {
     //her for vi en reference for spillercontrols
     //Man kan den her metode "subscribing" her siger vi bare at når spilleren er død skal gameover ske.
+    //man subscriber til en event som er "published" af en anden class, som man eksempelvis kan gøre til en tryk på en knap, hvor der så sker noget, her er det bare når-
+    //spilleren er død
         FindObjectOfType<Spillercontrols>().SpillerDød += OnGameover;
     }
 
