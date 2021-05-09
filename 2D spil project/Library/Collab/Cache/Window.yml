@@ -1,0 +1,476 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Fallendeblokke.meta
+    - Assets/Fallendeblokke/Modstander.prefab
+    - Assets/Fallendeblokke/Modstander.prefab.meta
+    - Assets/Farver.meta
+    - Assets/Farver/Farvemodstander.mat
+    - Assets/Farver/Farvemodstander.mat.meta
+    - Assets/Farver/Farvespiller.mat
+    - Assets/Farver/Farvespiller.mat.meta
+    - Assets/Farver/New Material.mat
+    - Assets/Farver/New Material.mat.meta
+    - Assets/Farver/New TMP Color Gradient.asset
+    - Assets/Farver/New TMP Color Gradient.asset.meta
+    - Assets/Farver/TextMesh Pro.meta
+    - Assets/Farver/TextMesh Pro/Documentation.meta
+    - Assets/Farver/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    - Assets/Farver/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader
+      Scene.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader
+      Scene.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader
+      Scene.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader
+      Scene.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Prefabs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue
+      to Purple - Vertical.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue
+      to Purple - Vertical.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/CGP
+      #1.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/CGP
+      #1.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark
+      to Light Green - Vertical.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark
+      to Light Green - Vertical.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light
+      to Dark Green - Vertical.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light
+      to Dark Green - Vertical.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow
+      to Orange - Vertical.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow
+      to Orange - Vertical.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Drop Shadow.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Drop Shadow.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Outline.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Outline.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Sunny Days.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF - Sunny Days.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton
+      SDF.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF - Drop Shadow.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF - Drop Shadow.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF - Outline.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF - Outline.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF Glow.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF Glow.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF Logo.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF Logo.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers
+      SDF.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic
+      Highway Sign SDF.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic
+      Highway Sign SDF.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Metalic Green.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Metalic Green.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Overlay.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Overlay.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Soft Mask.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans
+      SDF - Soft Mask.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald
+      Bold SDF.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald
+      Bold SDF.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Drop Shadow.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Drop Shadow.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Surface.mat
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF - Surface.mat.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold
+      SDF.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default
+      Sprite Asset.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default
+      Sprite Asset.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap
+      Numbers.asset
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap
+      Numbers.asset.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh
+      Pro.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh
+      Pro.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh
+      Pro.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh
+      Pro.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript
+      Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript
+      Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered
+      List Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered
+      List Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics &
+      Sprites.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics &
+      Sprites.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow
+      mode example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow
+      mode example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking
+      & Layout.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking
+      & Layout.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture &
+      Soft Mask.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture &
+      Soft Mask.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder
+      Example.unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder
+      Example.unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Sprites.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked
+      Text Image 1.png
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked
+      Text Image 1.png.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked
+      Text UI Screenshot.png
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked
+      Text UI Screenshot.png.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial
+      Double.psd
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial
+      Double.psd.meta
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial
+      Quad.psd
+    - Assets/Farver/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial
+      Quad.psd.meta
+    - Assets/Farver/TextMesh Pro/Fonts.meta
+    - Assets/Farver/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    - Assets/Farver/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    - Assets/Farver/TextMesh Pro/Fonts/LiberationSans.ttf
+    - Assets/Farver/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    - Assets/Farver/TextMesh Pro/Resources.meta
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials.meta
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+      Drop Shadow.mat
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+      Drop Shadow.mat.meta
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+      Fallback.asset
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+      Fallback.asset.meta
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+      Outline.mat
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF -
+      Outline.mat.meta
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.mat
+    - Assets/Farver/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.mat.meta
+    - Assets/Farver/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    - Assets/Farver/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    - Assets/Farver/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    - Assets/Farver/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMPro.cginc
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+    - Assets/Farver/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+    - Assets/Farver/TextMesh Pro/Resources/Sprite Assets.meta
+    - Assets/Farver/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    - Assets/Farver/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    - Assets/Farver/TextMesh Pro/Resources/Style Sheets.meta
+    - Assets/Farver/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    - Assets/Farver/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    - Assets/Farver/TextMesh Pro/Resources/TMP Settings.asset
+    - Assets/Farver/TextMesh Pro/Resources/TMP Settings.asset.meta
+    - Assets/Farver/TextMesh Pro/Sprites.meta
+    - Assets/Farver/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    - Assets/Farver/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    - Assets/Farver/TextMesh Pro/Sprites/EmojiOne.json
+    - Assets/Farver/TextMesh Pro/Sprites/EmojiOne.json.meta
+    - Assets/Farver/TextMesh Pro/Sprites/EmojiOne.png
+    - Assets/Farver/TextMesh Pro/Sprites/EmojiOne.png.meta
+    - Assets/Farver/baggrund.jpg
+    - Assets/Farver/baggrund.jpg.meta
+    - Assets/Farver/nostalgic_blue_background_03_hd_picture_169784.jpg
+    - Assets/Farver/nostalgic_blue_background_03_hd_picture_169784.jpg.meta
+    - Assets/Lyde.meta
+    - Assets/Lyde/Arcade Game BGM#2 Title Retro Game BGM.mp3
+    - Assets/Lyde/Arcade Game BGM#2 Title Retro Game BGM.mp3.meta
+    - Assets/Lyde/Hovedmixer.mixer
+    - Assets/Lyde/Hovedmixer.mixer.meta
+    - Assets/Scenes/Menu.unity
+    - Assets/Scenes/Menu.unity.meta
+    - Assets/Scenes/Spil.unity
+    - Assets/Scenes/Spil.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/Beholdlyden.cs
+    - Assets/Scripts/Beholdlyden.cs.meta
+    - Assets/Scripts/GameOver.cs
+    - Assets/Scripts/GameOver.cs.meta
+    - Assets/Scripts/Hovedmenu.cs
+    - Assets/Scripts/Hovedmenu.cs.meta
+    - Assets/Scripts/Hovedmenu1.cs
+    - Assets/Scripts/Hovedmenu1.cs.meta
+    - Assets/Scripts/Indstillingermenu.cs
+    - Assets/Scripts/Indstillingermenu.cs.meta
+    - Assets/Scripts/Modstander.cs
+    - Assets/Scripts/Modstander.cs.meta
+    - Assets/Scripts/Spawner.cs
+    - Assets/Scripts/Spawner.cs.meta
+    - Assets/Scripts/Spillercontrols.cs
+    - Assets/Scripts/Spillercontrols.cs.meta
+    - "Assets/Scripts/Sv\xE6rdhedsgrad.cs"
+    - "Assets/Scripts/Sv\xE6rdhedsgrad.cs.meta"
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
