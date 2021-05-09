@@ -20,6 +20,8 @@ public class GameOver : MonoBehaviour
 
     void Start()
     {
+    //her for vi en reference for spillercontrols
+    //Man kan den her metode "subscribing" her siger vi bare at når spilleren er død skal gameover ske.
         FindObjectOfType<Spillercontrols>().SpillerDød += OnGameover;
     }
 
